@@ -1,0 +1,8 @@
+% Jupyter notebook
+pip install notebook
+
+% plotting libraries
+pip install matplotlib
+
+% ai libraries
+pip3 install sklearn scikit
